@@ -1,0 +1,19 @@
+{
+  "name": "UCP-AIC-Richard",
+  "description": "This is the UCP-AIC-Richard v2.15.1",
+  "author": "UCP-Team",
+  "link": "",
+  "version": "2.15.1",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": false,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

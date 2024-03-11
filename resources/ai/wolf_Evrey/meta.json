@@ -1,0 +1,19 @@
+{
+  "name": "Evrey-Wolf",
+  "description": "This is Evreys castle set for the Wolf fixed up by Xander10alpha for modern AIC Compatibility and Efficiency.",
+  "author": "UCP-Team",
+  "link": "",
+  "version": "2.15.1",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": false,
+    "aiv": true,
+    "lord": false,
+    "startTroops": false,
+    "lines": false,
+    "portrait": false
+  }
+}
