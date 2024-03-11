@@ -4,6 +4,8 @@ author: UCP-Team
 version: 2.15.1
 dependencies:
   aiSwapper: ^1.0.1
+  framework: ^3.0.0
+  frontend: ^1.0.0
 meta:
   version: 1.0.0
   
